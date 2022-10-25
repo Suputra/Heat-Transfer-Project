@@ -5,3 +5,9 @@
 
 ## Contour plot for h<sub>y</sub> = 100
 ![hy = 100](./contour100_4.png)
+
+## Horizontal Lineplot
+![horizontal](./Horiz_Centerline.png)
+
+## Vertical Lineplot
+![horizontal](./Vert_Centerline.png)
